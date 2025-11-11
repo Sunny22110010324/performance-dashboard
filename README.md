@@ -1,5 +1,5 @@
-```markdown
-# 🚀 Performance Dashboard
+
+## 🚀 Performance Dashboard
 
 A high-performance real-time dashboard built with Vue 3 and TypeScript.
 
@@ -7,23 +7,6 @@ Monitor your application's performance metrics in real-time with a modern and re
 
 
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [FAQ](#faq)
-- [License](#license)
-- [Support](#support)
-- [Acknowledgments](#acknowledgments)
 
 ## About
 
@@ -44,7 +27,7 @@ Key technologies used in this project include Vue 3 for the front-end framework,
 
 ## 📹 Demo & Video
 
-[**🎥 Watch Full Demo Video**](https://drive.google.com/file/d/1s53tb7X2vW4afR1ztnQbRGyY-lsUhpx7/view?usp=sharing)
+[**Demo**](https://drive.google.com/file/d/1s53tb7X2vW4afR1ztnQbRGyY-lsUhpx7/view?usp=sharing)
 
 
 ## 🚀 Quick Start
@@ -118,30 +101,7 @@ API_ENDPOINT=https://api.example.com/metrics
 }
 ```
 
-## 📁 Project Structure
 
-```
-performance-dashboard/
-├── 📁 src/
-│   ├── 📁 components/          # Reusable Vue components
-│   ├── 📁 views/              # Application views/pages
-│   ├── 📁 services/           # API service functions
-│   ├── 📁 types/              # TypeScript type definitions
-│   ├── 📁 assets/             # Static assets (images, fonts)
-│   ├── 📁 styles/             # CSS/styling files
-│   └── 📄 App.vue             # Main Vue component
-├── 📁 public/                 # Public assets
-├── 📄 .env.example           # Example environment variables
-├── 📄 .gitignore             # Git ignore rules
-├── 📄 package.json           # Project dependencies
-├── 📄 README.md              # Project documentation
-├── 📄 tsconfig.json          # TypeScript configuration
-└── 📄 vite.config.ts       # Vite build configuration
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ### Quick Contribution Steps
 1. 🍴 Fork the repository
